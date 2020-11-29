@@ -7,7 +7,7 @@
 $from = 'Demo contact form <contact@himanshupatkar.in>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'Demo contact form <contact@himanshupatkar.in>';
+$sendTo = <contact@himanshupatkar.in>';
 
 // subject of the email
 $subject = 'New message from contact form';
